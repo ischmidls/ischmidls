@@ -1,5 +1,5 @@
 - 👋 *Hi, I’m* ... @ischmidls
-- 👀 *I’m interested in* ... taxonomy, mathematical computing, data visualization, automation, digital humanities
+- 👀 *I’m interested in* ... digital humanities & foundations of mathematics
 - 🌱 *I’m currently learning* ... Python, C++, Javascript
 <!--- - 💞️ *I’m looking to collaborate on* ... nothing at the moment --->
 <!--- - 📫 *How to reach me* ... please, don't --->
