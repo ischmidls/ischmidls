@@ -2,6 +2,7 @@
 - 👀 *I’m interested in* ... computational topology!
 - 🌎 *I'd like to see more* ... digital privacy, virtual humanities, etc
 - 🌱 *I’m currently learning* ... Python, C++, Javascript
+- 🏡 *My home page* ... [ischmidls.github.io](http://ischmidls.github.io/)
 <!--- - 💞️ *I’m looking to collaborate on* ... nothing at the moment --->
 <!--- - 📫 *How to reach me* ... please, don't --->
 
