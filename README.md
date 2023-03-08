@@ -1,6 +1,6 @@
 - 👋 *Hi, I’m* ... @ischmidls
 - 👀 *I’m interested in* ... computational topology!
-- 🌎 *I'd like to see more* ... digital provacy, virtual humanities, etc
+- 🌎 *I'd like to see more* ... digital privacy, virtual humanities, etc
 - 🌱 *I’m currently learning* ... Python, C++, Javascript
 <!--- - 💞️ *I’m looking to collaborate on* ... nothing at the moment --->
 <!--- - 📫 *How to reach me* ... please, don't --->
