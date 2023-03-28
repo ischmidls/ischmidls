@@ -7,6 +7,7 @@
 - 🏡 *My home page* ... [ischmidls.github.io](http://ischmidls.github.io/)
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - -
 ## some projects I'm planning...
+- [hegel](https://ischmidls.github.io/pages/hegel/)
 - word search for small pdf database
 - statistical index (give page numbers for term in order of variance)
 - more user-friendly thesaurus
