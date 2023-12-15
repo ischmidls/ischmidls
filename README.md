@@ -1,7 +1,6 @@
 ## welcome
 - 👋 *Hi, I’m* ... @ischmidls
-- 👀 *I’m interested in* ... computational topology!
-- 🌎 *I'd like to see more* ... digital privacy, virtual humanities, etc
+- 👀 *I’m interested in* ... still feeling out mathematical analysis, algebra, & geometry/topology
 - 🌱 *I’m currently learning* ... Python, C++, Javascript
 - 🌞 *I enjoy* ... bookclubs, music, hiking, etc
 - 🏡 *My home page* ... [ischmidls.github.io](http://ischmidls.github.io/)
